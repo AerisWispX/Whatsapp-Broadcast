@@ -1,0 +1,13 @@
+=== WhatsApp Group URLs ===
+
+Group: Hi
+ID: 120363367286737605@g.us
+Status: Error processing group
+
+Group: Hi
+ID: 120363366911360598@g.us
+URL: https://chat.whatsapp.com/GlZG2dFdTCe79B9jMRYKee
+Participants: 3
+
+
+Log generated at: 2024-11-17T16:39:43.935Z
